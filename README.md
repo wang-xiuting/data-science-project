@@ -17,6 +17,7 @@ This repository investigates how the sales volume of a fictional automobile manu
 7. [Getting Started](#getting-started)
 8. [Reproducing the Analysis](#reproducing-the-analysis)
 9. [Author](#author)
+10. [Coursework Archive](#coursework-archive)
 
 ---
 
@@ -170,3 +171,16 @@ Master's student in Data Science and Compliance, University of Macau
 Course: CISC7204 – Data Science and Data Visualization
 
 *Code in this repository is shared for academic portfolio purposes. The dataset remains the property of IBM Skills Network and is used under its educational terms.*
+
+---
+
+## Coursework Archive
+
+This repository also keeps the supporting CISC7204 coursework. Each subfolder has its own `README.md` with a module-by-module breakdown.
+
+| Folder | Contents |
+| --- | --- |
+| [`assignment-01/`](assignment-01/) | **Assignment 01 – Data Analysis with Python.** Modules 1–6: importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and refinement, plus the final/practice projects and the preliminary project proposal. |
+| [`assignment-02/`](assignment-02/) | **Assignment 02 – Data Visualization with Python.** Modules 01–05: Matplotlib / Seaborn chart types, geospatial maps, Plotly and Dash dashboards, the wildfire practice assignment, and the revised project proposal. |
+
+Both folders contain the original submission files (notebooks, scripts, datasets, figures and proposals) with large screenshot folders, web-page caches and macOS metadata removed. The cleaned-up automobile-sales deliverables in the repository root originate from `assignment-02/Module 05/`.
