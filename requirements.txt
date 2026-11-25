@@ -1,0 +1,26 @@
+# ============================================================
+# CISC7204 - Automobile Sales vs. Recession Analysis
+# Dependencies derived directly from the source code in this repo
+# (01_automobile_sales_eda.ipynb and 02_sales_dashboard.py)
+# Python 3.10+ recommended
+# ============================================================
+
+# --- Core data handling (both scripts) ---
+pandas
+numpy
+
+# --- Data acquisition (the notebook downloads the CSV / GeoJSON over HTTP) ---
+requests
+
+# --- Static visualisation (01_automobile_sales_eda.ipynb) ---
+matplotlib
+seaborn
+folium
+
+# --- Interactive dashboard (02_sales_dashboard.py) ---
+dash
+plotly
+more_itertools
+
+# --- Notebook runtime (needed to execute 01_automobile_sales_eda.ipynb) ---
+jupyter
